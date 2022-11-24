@@ -1,2 +1,2 @@
-# lern-pymssql
-lern pymssql
+# pymssql
+pymssql
